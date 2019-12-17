@@ -1,0 +1,7 @@
+/env
+/bin
+/training_data
+/valid_data
+/test_data
+__pycache__
+.vscode

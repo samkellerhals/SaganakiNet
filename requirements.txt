@@ -1,0 +1,11 @@
+pandas
+numpy
+kaggle
+torch 
+torchvision
+ipykernel
+pretrainedmodels
+matplotlib
+seaborn
+opencv-python
+Pillow
